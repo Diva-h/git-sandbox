@@ -7,3 +7,7 @@ ggplot(mpg, mapping = aes(x="year", y = "cty"))
 plot(mpg)
 
 qplot(mpg$hwy)
+
+qplot(mpg$cty)
+
+
