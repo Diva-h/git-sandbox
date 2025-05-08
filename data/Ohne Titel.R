@@ -1,4 +1,5 @@
 library (tidyverse)
 
 view(mpg)
-summarise(mpg)
+
+str(mpg)
